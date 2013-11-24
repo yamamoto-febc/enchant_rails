@@ -7,7 +7,7 @@ You just have to add the 'enchant_rails' gem to your Gemfile
 
 #### Gemfile
 
-    gem 'enchant-rails' , git: 'https://github.com/yamamoto-febc/enchant_rails'
+    gem 'enchant_rails' , git: 'https://github.com/yamamoto-febc/enchant_rails'
 
 #### application.js 
 
